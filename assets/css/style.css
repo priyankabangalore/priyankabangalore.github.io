@@ -1,10 +1,3 @@
-/**
-* Template Name: Laura - v4.1.0
-* Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -13,11 +6,17 @@ body {
   color: #444444;
 }
 
+/*--------------------------------------------------------------
+# bright yellow
+--------------------------------------------------------------*/
 a {
   color: #ffb727;
   text-decoration: none;
 }
 
+/*--------------------------------------------------------------
+# light yellow
+--------------------------------------------------------------*/
 a:hover {
   color: #ffc85a;
   text-decoration: none;
