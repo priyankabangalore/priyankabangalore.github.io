@@ -639,7 +639,7 @@ section {
 
 .button {
   background-color: #fff;
-  color: white;
+  color: #5d6a75;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -651,9 +651,9 @@ section {
 }
 
 .button:hover {
-  background-color: #ab644f;
-  border: 2px solid #ab644f;
-  color: white;
+  background-color: #bd8270;
+  border: 2px solid #bd8270;
+  color: #5d6a75;
 }
 
 .resume .resume-item {
