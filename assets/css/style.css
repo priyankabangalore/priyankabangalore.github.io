@@ -639,7 +639,6 @@ section {
 
 .button {
   background-color: #fff;
-  color: #5d6a75;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -648,12 +647,13 @@ section {
   padding: 10px 24px;
   border-radius: 2px;
   border: 2px solid #dde1e4;
+  color: #5d6a75;
 }
 
 .button:hover {
   background-color: #bd8270;
   border: 2px solid #bd8270;
-  color: #fff;
+  color: white;
 }
 
 .resume .resume-item {
