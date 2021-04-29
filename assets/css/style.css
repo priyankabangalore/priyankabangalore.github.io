@@ -638,10 +638,8 @@ section {
 }
 
 .button {
-  background-color: #bd8270;
-  border: none;
+  background-color: #fff;
   color: white;
-  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -649,10 +647,12 @@ section {
   transition-duration: 0.4s;
   padding: 10px 24px;
   border-radius: 2px;
+  border: 2px solid #dde1e4;
 }
 
 .button:hover {
   background-color: #ab644f;
+  border: 2px solid #ab644f;
   color: white;
 }
 
