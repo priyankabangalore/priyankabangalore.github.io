@@ -10,7 +10,7 @@ body {
 # bright yellow ffb727
 --------------------------------------------------------------*/
 a {
-  color: #bd8270;
+  color: #ab644f;
   text-decoration: none;
 }
 
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #ffc550;
+  background: #ab644f;
   color: #fff;
 }
 
