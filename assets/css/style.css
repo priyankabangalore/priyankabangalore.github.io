@@ -653,7 +653,7 @@ section {
 .button:hover {
   background-color: #bd8270;
   border: 2px solid #bd8270;
-  color: #5d6a75;
+  color: #fff;
 }
 
 .resume .resume-item {
