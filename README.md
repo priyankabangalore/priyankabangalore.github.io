@@ -1,3 +1,3 @@
 # My Iportfolio
 
-A digital presentation of my resume and projects.
+A digital portfolio of my resume.
