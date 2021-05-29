@@ -1,3 +1,3 @@
-# priyankabangalore.github.io
+# My Iportfolio
 
-My Personal Iportfolio.
+A digital presentation of my resume and projects.
