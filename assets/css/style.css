@@ -286,7 +286,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
-#hero:before {
+ #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.65);
   position: absolute;
@@ -310,10 +310,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h1 {
-  margin: 0 0 10px 0;
-  font-size: 70px;
+	font-size: 70px;
   font-family: "Raleway", serif;
-  color: #fff;
+  color: #fff;  
+  text-shadow: 0 0 7px #5edddd, 0 0 11px #ff83c1;
+  margin: 0 0 10px 0;
 }
 
 #hero h2 {
@@ -537,49 +538,6 @@ section {
   margin-bottom: 0;
 }
 
-.about .content .count-box {
-  width: 100%;
-}
-
-.about .content .count-box i {
-  display: block;
-  font-size: 36px;
-  color: #ff98cb;
-  float: left;
-  line-height: 0;
-}
-
-.about .content .count-box span {
-  font-size: 36px;
-  line-height: 30px;
-  display: block;
-  font-weight: 700;
-  color: #3b434a;
-  margin-left: 50px;
-}
-
-.about .content .count-box p {
-  padding: 15px 0 0 0;
-  margin: 0 0 0 50px;
-  font-family: "Raleway", sans-serif;
-  font-size: 14px;
-  color: #ffe5f2;
-}
-
-.about .content .count-box a {
-  font-weight: 600;
-  display: block;
-  margin-top: 20px;
-  color: #ffe5f2;
-  font-size: 15px;
-  font-family: "Satisfy", serif;
-  transition: ease-in-out 0.3s;
-}
-
-.about .content .count-box a:hover {
-  color: #82909c;
-}
-
 .about .skills-content {
   margin-top: 30px;
 }
@@ -628,23 +586,18 @@ section {
   color: #995476;
 }
 
-.button {
+.btn {
   background-color: #fff;
-  text-align: center;
-  text-decoration: none;
   display: inline-block;
-  font-size: 16px;
   transition-duration: 0.2s;
-  padding: 10px 24px;
+  padding: 5px 12px;
   border-radius: 2px;
   border: 2px solid #dde1e4;
-  color: #5d6a75;
 }
 
-.button:hover {
+.btn:hover {
   background-color: #ff98cb;
   border: 2px solid #ff98cb;
-  color: white;
 }
 
 .resume .resume-item {
@@ -666,6 +619,7 @@ section {
 .resume .resume-item h5 {
   font-size: 16px;
   background: #eef0f2;
+  color: #8d8d8d;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
