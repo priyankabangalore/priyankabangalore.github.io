@@ -1,7 +1,7 @@
 # My Iportfolio
 
 ## Description
-💜 A digital portfolio of my resume.
+A digital portfolio of my resume.
 
 ## Built With
 - HTML
