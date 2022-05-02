@@ -1,4 +1,4 @@
-# My Iportfolio
+# My IPortfolio
 
 ## Description
 A digital portfolio of my resume.
