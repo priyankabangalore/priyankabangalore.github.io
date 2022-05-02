@@ -8,3 +8,4 @@ A digital portfolio of my resume.
 - CSS
 - Javascript
 
+View it here: https://priyankabangalore.github.io/
